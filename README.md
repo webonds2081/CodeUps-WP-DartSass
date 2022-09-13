@@ -1,4 +1,5 @@
-# 【DartSass】CodeUps課題用Gulp環境（スマホファースト）
+# CodeUps-WP-DartSass 
+DartSass対応WordPress構築環境を含むgulpファイル
 
 ## 環境
 - Gulpが使える環境が前提（4系）
